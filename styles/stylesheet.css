@@ -1,0 +1,40 @@
+#introP {
+    background-color: #f4d570;
+}
+
+#navMenuDiv {
+    background-color: gray;
+}
+#navMenu {
+    color: white;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    display: flex;
+    overflow: hidden;
+
+}
+
+#navMenu li a{
+    padding: 5px 5px;
+}
+
+#navMenu li a:hover {
+    color: black;
+}
+
+#recipeList {
+    list-style-type: disc;
+}
+#recipeList li::marker {
+    color: rgb(240, 14, 14);
+}
+
+#recipeList li {
+    list-style-type: '>';
+    padding-inline-start: 1ch;
+}
+body {
+    background-color: cornflowerblue;
+}
