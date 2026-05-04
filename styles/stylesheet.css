@@ -1,6 +1,10 @@
 #introP {
     background-color: #f4d570;
+    margin: 5px;
+    padding: 10px;
+    text-align: left;
 }
+
 
 #navMenuDiv {
     background-color: gray;
