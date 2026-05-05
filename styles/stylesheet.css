@@ -5,6 +5,9 @@
     text-align: left;
 }
 
+#headerText {
+    color: #f4d570;
+}
 
 #navMenuDiv {
     background-color: gray;
